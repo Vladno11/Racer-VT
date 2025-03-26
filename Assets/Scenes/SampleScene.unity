@@ -1446,8 +1446,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f21d2f749c17fd342ab39d38eb2ccbe7, type: 2}
+  m_sharedMaterial: {fileID: -2365143794648141405, guid: f21d2f749c17fd342ab39d38eb2ccbe7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1656,8 +1656,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 00:00
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f21d2f749c17fd342ab39d38eb2ccbe7, type: 2}
+  m_sharedMaterial: {fileID: -2365143794648141405, guid: f21d2f749c17fd342ab39d38eb2ccbe7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1880,8 +1880,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Click anything to continue
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f21d2f749c17fd342ab39d38eb2ccbe7, type: 2}
+  m_sharedMaterial: {fileID: -2365143794648141405, guid: f21d2f749c17fd342ab39d38eb2ccbe7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3128,8 +3128,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: speed
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f21d2f749c17fd342ab39d38eb2ccbe7, type: 2}
+  m_sharedMaterial: {fileID: -2365143794648141405, guid: f21d2f749c17fd342ab39d38eb2ccbe7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3532,8 +3532,8 @@ MonoBehaviour:
   m_text: "\n  WASD - Moving\n\n  Space - Breaking/Drifting\n\n  Esc - Pause\n\n 
     R - Respawn to last checkpoint"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f21d2f749c17fd342ab39d38eb2ccbe7, type: 2}
+  m_sharedMaterial: {fileID: -2365143794648141405, guid: f21d2f749c17fd342ab39d38eb2ccbe7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3877,7 +3877,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1643928419
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4367,8 +4367,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Congratulations!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f21d2f749c17fd342ab39d38eb2ccbe7, type: 2}
+  m_sharedMaterial: {fileID: -2365143794648141405, guid: f21d2f749c17fd342ab39d38eb2ccbe7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

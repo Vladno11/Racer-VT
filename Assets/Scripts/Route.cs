@@ -24,7 +24,11 @@ public class Route : MonoBehaviour
                     nextPoint.isRestart = true;
                     index++;
                 }
-                else time.hasFinished = true;//znamo da je finish line, jer on jedini nema nexpoint
+                else
+                {
+                    index = 0;
+                    time.hasFinished = true;//znamo da je finish line, jer on jedini nema nexpoint
+                }
             }
         }
     }
